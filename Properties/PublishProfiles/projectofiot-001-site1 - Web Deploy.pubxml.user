@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzNuLO4jVE0a/2jdNcdl3QgAAAAACAAAAAAAQZgAAAAEAACAAAAB2xK+pGREXTC8JnagdmbJg+E6M0vT2gInkBM6xvt7FhgAAAAAOgAAAAAIAACAAAACDThGto5PK4a0ZlZLMzJYllTIELCaOau6zipFY1Y8QFyAAAABslViTm8XnN7eG9+OgDmA69XPwJ0aIKJjSfAWGYlXvS0AAAAD3mqwktubT2gga7lhOMIl12BZy9VWIZIYSIN5jFXrPiaLhQK7UMRZHzXNLMMYvT2oRTTrP+DIVwPbSsiYxrLcE</EncryptedPassword>
+    <History>True|2023-01-20T15:53:15.2600255Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL5104.site4now.net%3bInitial Catalog=db_a93746_iotproject%3bUser Id=db_a93746_iotproject_admin%3bPassword=aaalli0122</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

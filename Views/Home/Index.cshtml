@@ -1,0 +1,22 @@
+﻿@model IOT.Models.FormViewModel 
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">IOT Project</h1>
+    <div class="formClass">
+        <form asp-action="Index">
+          <div class="mb-3">
+            <label asp-for="On" class="form-label">Time(ms) on</label>
+            <input asp-for="On" class="form-control" id="On" required>
+          </div>
+          <div class="mb-3">
+            <label asp-for="Off" class="form-label">Time(ms) off</label>
+            <input asp-for="Off" class="form-control" id="Off" required>
+          </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+    
+</div>
