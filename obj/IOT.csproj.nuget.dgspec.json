@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual studio projects\\IOT\\IOT.csproj": {}
+    "D:\\Visual studio projects\\Arduino-ESP8266\\IOT.csproj": {}
   },
   "projects": {
-    "D:\\Visual studio projects\\IOT\\IOT.csproj": {
+    "D:\\Visual studio projects\\Arduino-ESP8266\\IOT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual studio projects\\IOT\\IOT.csproj",
+        "projectUniqueName": "D:\\Visual studio projects\\Arduino-ESP8266\\IOT.csproj",
         "projectName": "IOT",
-        "projectPath": "D:\\Visual studio projects\\IOT\\IOT.csproj",
+        "projectPath": "D:\\Visual studio projects\\Arduino-ESP8266\\IOT.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual studio projects\\IOT\\obj\\",
+        "outputPath": "D:\\Visual studio projects\\Arduino-ESP8266\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
